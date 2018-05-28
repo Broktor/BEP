@@ -1,5 +1,0 @@
-packages:
-  - vgauthier/DynamicPopEstimate   # get the latest version
-  - danWebster/sgRNAs:a972d92      # get a specific hash (short hash)
-  - akarve/sales:tag:latest        # get a specific tag
-  - asah/snli:v:1.0                # get a specific version
